@@ -1,0 +1,10 @@
+{
+  "_id": "1",
+  "author": "Autor 1",
+  "content": "Conteúdo 1",
+  "tags": ["tag-1"],
+  "authorSlug": "autor-1",
+  "length": 1,
+  "dateAdded": "2023-04-28",
+  "dateModified": "2023-04-28"
+}
